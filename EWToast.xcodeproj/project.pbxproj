@@ -48,7 +48,6 @@
 		7908944E2147B8B200DC70C6 /* EWToastUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EWToastUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		790894522147B8B200DC70C6 /* EWToastUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EWToastUITests.swift; sourceTree = "<group>"; };
 		790894542147B8B200DC70C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		790894602147B98900DC70C6 /* EWToast-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "EWToast-Bridging-Header.h"; sourceTree = "<group>"; };
 		790894642147C67500DC70C6 /* EWToast.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EWToast.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -107,7 +106,6 @@
 				790894392147B8B200DC70C6 /* Assets.xcassets */,
 				7908943B2147B8B200DC70C6 /* LaunchScreen.storyboard */,
 				7908943E2147B8B200DC70C6 /* Info.plist */,
-				790894602147B98900DC70C6 /* EWToast-Bridging-Header.h */,
 			);
 			path = EWToast;
 			sourceTree = "<group>";

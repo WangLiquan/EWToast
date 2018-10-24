@@ -196,14 +196,16 @@
 				TargetAttributes = {
 					7908942E2147B8A800DC70C6 = {
 						CreatedOnToolsVersion = 9.4.1;
-						LastSwiftMigration = 0940;
+						LastSwiftMigration = 1000;
 					};
 					790894422147B8B200DC70C6 = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1000;
 						TestTargetID = 7908942E2147B8A800DC70C6;
 					};
 					7908944D2147B8B200DC70C6 = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1000;
 						TestTargetID = 7908942E2147B8A800DC70C6;
 					};
 				};
@@ -445,9 +447,9 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.Ethan.EWToast;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "EWToast/EWToast-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -466,8 +468,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.Ethan.EWToast;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "EWToast/EWToast-Bridging-Header.h";
-				SWIFT_VERSION = 4.0;
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -487,7 +489,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.Ethan.EWToastTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EWToast.app/EWToast";
 			};
@@ -508,7 +510,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.Ethan.EWToastTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EWToast.app/EWToast";
 			};
@@ -528,7 +530,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.Ethan.EWToastUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = EWToast;
 			};
@@ -548,7 +550,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.Ethan.EWToastUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = EWToast;
 			};

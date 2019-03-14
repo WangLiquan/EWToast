@@ -43,7 +43,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-    @objc func showToast(sender: UIButton){
+    @objc func showToast(sender: UIButton) {
         switch sender.tag {
         case 0:
             EWToast.showTopWithText(text: "上方显示,持续默认时间2秒")
@@ -61,6 +61,4 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
 }
-

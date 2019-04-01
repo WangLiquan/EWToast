@@ -1,5 +1,7 @@
 # EWToast
-<h3>简易Toast提示框</h3>
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
+简易Toast提示框
 
 # 实现功能:
 
